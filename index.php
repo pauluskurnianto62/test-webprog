@@ -15,6 +15,7 @@
 	</style>
 </head>
 <body>
+	<h1>SELAMAT DATANG DI NAMA</h1>
 	<form>
 		<!--Menuju ke link form mobil-->
 		<button><a href='nama.php'>Form Nama</a></button> <br><br>
